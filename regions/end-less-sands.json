@@ -1,0 +1,12 @@
+{
+    "name": "Endless Sands",
+    "landBiomes": [
+        "endless-sands"
+    ],
+    "seaBiomes": [
+        "endless-sands"
+    ],
+    "shoreBiomes": [
+        "endless-sands"
+    ]
+}

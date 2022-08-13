@@ -1,0 +1,52 @@
+{
+    "name": "End of the World",
+    "landBiomes": [
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen",
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen"
+    ],
+    "shoreBiomes": [
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen",
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen"
+    ],
+    "seaBiomes": [
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen",
+        "hot",
+        "tropical",
+        "swamp",
+        "tundra",
+        "temperate",
+        "mushroom",
+        "frozen"
+    ],
+    "landBiomeZoom": 6.25
+}

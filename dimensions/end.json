@@ -1,0 +1,47 @@
+{
+    "version": 2086,
+    "name": "End",
+    "environment": "NORMAL",
+    "fluidHeight": 160,
+    "continentZoom": 1,
+    "continentalStyle": {"style": "FLAT"},
+    "rockPalette": {"palette": [{"block": "minecraft:end_stone"}]},
+    "fluidPalette": {"palette": [{"block": "minecraft:air"}]},
+    "logicalHeight": 448,
+    "dimensionHeight": {
+        "max": 448,
+        "min": -64
+    },
+    "landChance": 1,
+    "regionZoom": 20,
+    "regionStyle": {
+        "style": "PERLIN",
+        "exponent": 3
+    },
+    "aggressiveBiomeReshuffle": true,
+    "regions": [
+        "end-less-sands",
+        "end-biome"
+    ],
+    "landBiomeStyle": {
+        "style": "NOWHERE_CELLULAR",
+        "axialFracturing": true,
+        "fracture": {
+            "multiplier": 55,
+            "axialFracturing": true,
+            "style": "NOWHERE",
+            "zoom": 0.15,
+            "fracture": {
+                "axialFracturing": true,
+                "style": "STATIC",
+                "multiplier": 4
+            }
+        },
+        "zoom": 10
+    },
+    "shoreBiomeStyle": {"style": "NOWHERE_CELLULAR"},
+    "coordFractureZoom": 0.15,
+    "preventLeafDecay": true,
+    "useMantle": true,
+    "skylandBiomeStyle": {"style": "SIMPLEX"}
+}
